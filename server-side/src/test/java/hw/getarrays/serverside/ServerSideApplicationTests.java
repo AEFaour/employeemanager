@@ -1,10 +1,10 @@
-package hw.getarrays.employeemanager;
+package hw.getarrays.serverside;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeemanagerApplicationTests {
+class ServerSideApplicationTests {
 
 	@Test
 	void contextLoads() {
